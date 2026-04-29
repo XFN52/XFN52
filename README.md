@@ -1,12 +1,7 @@
 <p align="center">
-  <svg width="600" height="100" viewBox="0 0 600 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text { font: bold 45px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9D7CD8; filter: drop-shadow(0 0 8px #9D7CD8); }
-      .subtext { font: 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7AA2F7; }
-    </style>
-    <text x="50%" y="50" text-anchor="middle" class="text">ANDREY // XFN52</text>
-    <text x="50%" y="85" text-anchor="middle" class="subtext">AI-ASSISTED SOFTWARE ENGINEER</text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=45&duration=1&pause=0&color=9D7CD8&center=true&vCenter=true&width=600&lines=ANDREY+%2F%2F+XFN52" alt="Title SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=20&duration=1&pause=0&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER" alt="Subtitle SVG" />
 </p>
 
 <p align="center">
@@ -56,6 +51,7 @@
     <ul>
       <li>Self-correcting loop: analyzes <code>pdflatex</code> logs and applies AI-generated patches.</li>
       <li>Advanced prompt chains for complex formula recognition.</li>
+      <li>Automatic syntax fixing using LLM-feedback.</li>
     </ul>
     <a href="https://github.com/XFN52/otcifrovka_lekchii">Explore Source Code →</a>
   </blockquote>
@@ -66,8 +62,8 @@
   <blockquote>
     Custom networking suite for private secure communication and DPI evasion.
     <ul>
-      <li>Automated SubNode management.</li>
-      <li>Systemd-orchestrated daemon deployment.</li>
+      <li>Automated SubNode management and subscription handling.</li>
+      <li>Systemd-orchestrated daemon deployment for 24/7 reliability.</li>
     </ul>
     <a href="https://github.com/XFN52/SubNode-Public">Explore Source Code →</a>
   </blockquote>
