@@ -1,0 +1,11 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="blur" in2="SourceGraphic" operator="over" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="50%" y="130" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="100" font-weight="900" fill="#9D7CD8" filter="url(#glow)" style="letter-spacing: 15px;">XFN52</text>
+  <text x="50%" y="180" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#7AA2F7" letter-spacing="10">AI-ASSISTED ENGINEER</text>
+</svg>

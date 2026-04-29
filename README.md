@@ -1,12 +1,9 @@
-<h1 align="center">🗲 𝗫 𝗙 𝗡 𝟱 𝟮 🗲</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER;SYSTEM+ARCHITECT;INFRASTRUCTURE+AUTOMATION" alt="Subtitle SVG" />
+  <img src="header.svg" width="100%" alt="XFN52 Neon Header" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-9D7CD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-ARCHITECT-7AA2F7?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=System+Architecture;Infrastructure+Automation;AI-Driven+Development;Cyber-Security" alt="Typing SVG" />
 </p>
 
 ---
