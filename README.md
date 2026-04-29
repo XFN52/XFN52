@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=45&duration=1&pause=0&color=9D7CD8&center=true&vCenter=true&width=600&lines=ANDREY+%2F%2F+XFN52" alt="Title SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=20&duration=1&pause=0&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER" alt="Subtitle SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=9D7CD8&text=XFN52&fontSize=100&height=150&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=System+Architecture;Infrastructure+Automation;AI-Driven+Development;Cyber-Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER;SYSTEM+ARCHITECT;INFRASTRUCTURE+AUTOMATION" alt="Subtitle SVG" />
 </p>
 
 ---
