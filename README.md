@@ -1,9 +1,12 @@
+<h1 align="center">🗲 𝗫 𝗙 𝗡 𝟱 𝟮 🗲</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=9D7CD8&text=XFN52&fontSize=100&height=150&animation=fadeIn" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER;SYSTEM+ARCHITECT;INFRASTRUCTURE+AUTOMATION" alt="Subtitle SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-ASSISTED+SOFTWARE+ENGINEER;SYSTEM+ARCHITECT;INFRASTRUCTURE+AUTOMATION" alt="Subtitle SVG" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-9D7CD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-ARCHITECT-7AA2F7?style=for-the-badge" />
 </p>
 
 ---
