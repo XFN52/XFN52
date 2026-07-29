@@ -2,166 +2,170 @@
 
 # XFN52
 
-**Разработчик · Сайты · Парсеры · Боты · Серверы**
+### Full-Stack Developer & Automation Engineer
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+ Разработка веб-интерфейсов, парсеров сложных SPA, высоконагруженных скриптов и серверов.  
+ Приоритеты в коде: **выделенная скорость, предсказуемость решений и хирургическая точность.**
 
 </div>
 
 ---
 
-## Что делаю
+## Ключевые компетенции
 
-Пишу код на **Python**, **TypeScript / React** и **PHP**.
-Беру задачи, где надо не просто сверстать, а разобраться и заставить работать.
-
-- **Сайты** — вёрстка руками, без Тильды и конструкторов. Адаптив от 320px, загрузка меньше секунды
-- **Парсеры** — включая сложные JS-сайты: Playwright, разбор состояния SPA
-- **Телеграм-боты** — подписки, оплата, автопродление, админка
-- **Автоматизация** — обработка PDF и таблиц, генерация документов, интеграции с API нейросетей
-- **Расширения для Chrome** — Manifest V3
-- **Серверы** — Ubuntu, nginx, SSL с автопродлением, systemd, деплой
+| Направление | Стек и решения |
+| :--- | :--- |
+| **Frontend & Web** | Чистая верстка (HTML5, CSS3, Vanilla JS, React 19, Vite, Tailwind). Адаптивная сетка от **320px**, прохождение валидаций PageSpeed **95+**, загрузка < **1 сек** |
+| **Scraping & Automation** | Эмуляция реального пользователя на JS-сайтах с помощью Playwright, разбор динамического состояния SPA, ротация сессий и прокси |
+| **Backend & APIs** | Проектирование асинхронных сервисов на FastAPI / PHP 8, REST API, интеграция с LLM и векторными нейросетями |
+| **DevOps & VPS** | Развертывание Linux Nginx reverse-proxy, выпуск ECC SSL-сертификатов через acme.sh, автопродление, изоляция системных служб через systemd |
 
 ---
 
-## Проекты
+## Избранные веб-проекты
 
-### 1. Сайт выездного автосервиса (AUTOHELP24)
-Одностраничник под один сценарий: человек стоит на обочине и должен позвонить за 4 секунды. Прилипшая кнопка звонка, время прибытия крупно на первом экране, навигация по симптомам поломки.
+### 01. AUTOHELP24 — Выездной автосервис
+> **Концепт:** Экстренный одностраничный интерфейс для ситуации, когда автомобиль заглох на дороге. Навигация по симптомам поломки вместо названий услуг, крупное время прибытия и прилипающая кнопка быстрого вызова.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Загрузка 0.9 с · PageSpeed 98 · Адаптив от 320px
-
-[Открыть демо →](https://xfn52.github.io/autohelp-landing/) · [Код на GitHub →](https://github.com/XFN52/autohelp-landing)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/autohelp-landing/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/autohelp-landing)
 
 ---
 
-### 2. Клининговая служба «ЧИСТО 52»
-Лендинг услуг уборки квартир и офисов. Калькулятор стоимости, интеграция карты Leaflet 1.9, блоки гарантий и прозрачности доверия.
+### 02. ЧИСТО 52 — Клининговая служба
+> **Концепт:** Коммерческий лендинг услуг уборки помещений. Калькулятор стоимости в реальном времени, интерактивная геолокационная карта Leaflet 1.9 и блоки прозрачности гарантий.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-> Адаптив от 320px · Интерактивный калькулятор
-
-[Открыть демо →](https://xfn52.github.io/chisto52-cleaning/) · [Код на GitHub →](https://github.com/XFN52/chisto52-cleaning)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/chisto52-cleaning/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/chisto52-cleaning)
 
 ---
 
-### 3. Сайт мастера маникюра «Алина»
-Минималистичный премиум-лендинг с типографикой Playfair Display 900, терракотовой палитрой, тач-слайдером портфолио работ и интегрированной картой Leaflet.
+### 03. АЛИНА — Мастер маникюра
+> **Концепт:** Редакционный премиум-лендинг в палитре терракота с типографикой Playfair Display 900, тач-галереей выполненных работ и картой Leaflet без платная ключей.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-> Адаптив от 320px · Галерея со свайпом
-
-[Открыть демо →](https://xfn52.github.io/manicure-alina/) · [Код на GitHub →](https://github.com/XFN52/manicure-alina)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/manicure-alina/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/manicure-alina)
 
 ---
 
-### 4. Сайт установки натяжных потолков
-Коммерческий лендинг с интерактивным выбором фактур потолка (глянцевые, матовые, сатиновые), галереей проектов и блоком онлайн-расчёта.
+### 04. Натяжные потолки
+> **Концепт:** Сервис подбора и расчёта натяжных потолков. Фильтрация фактур (глянец, мат, сатин), галерея объектов и мгновенный расчёт стоимости помещения.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Адаптив от 320px · Калькулятор фактур
-
-[Открыть демо →](https://xfn52.github.io/stretch-ceilings/) · [Код на GitHub →](https://github.com/XFN52/stretch-ceilings)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/stretch-ceilings/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/stretch-ceilings)
 
 ---
 
-### 5. Neon DevOps Portfolio
-Интерактивный дашборд-портфолио в стиле неонового киберпанка с анимациями канваса, статусом сервисов и мониторингом стека.
+### 05. Neon DevOps Portfolio
+> **Концепт:** Футуристический дашборд разработчика в стиле неонового киберпанка. Интерактивные графики, динамическая канвас-сетка и статус мониторинга сервисов.
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> Автодеплой GitHub Actions · SPA 
-
-[Открыть демо →](https://xfn52.github.io/neon-devops-portfolio/) · [Код на GitHub →](https://github.com/XFN52/neon-devops-portfolio)
-
----
-
-### 6. Миграция туристического портала: WordPress → PHP 8
-Сайт на WP с плагинами открывался 6 секунд, админка висла. Перенёс на чистый PHP 8 + MariaDB со своей админ-панелью. 32 объекта каталога с галереями, таблицами цен и геоданными — с сохранением URL и счётчиков просмотров. Карты на Leaflet без платных ключей.
-
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/neon-devops-portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/neon-devops-portfolio)
 
 ---
 
-### 7. Local Proxy API (FastAPI + Playwright)
-Сервер с OpenAI-совместимым эндпоинтом, который под капотом асинхронно управляет Chromium. Изолированные сессии с ротацией, мультимодальность, retry, обработка модальных окон и падений браузера. Половина кода — крайние случаи, на них ушло больше всего времени.
+## Автоматизация и Backend
+
+### 06. Local Proxy API (FastAPI + Playwright)
+Асинхронный сервер управления экземплярами Chromium с OpenAI-совместимым REST API эндпоинтом. Автоматическая ротация сессий, обработка ошибок, капч и всплывающих окон.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-[Код на GitHub →](https://github.com/XFN52/xray-telemt-proxy)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/xray-telemt-proxy)
 
 ---
 
-### 8. Chrome-расширение: переводчик на Gemini API
-Manifest V3: service worker, content-скрипты, popup. Перевод выделенного текста всплывающей панелью на любой странице, распознавание текста с картинок, ротация нескольких API-ключей, интерфейс на 13 языках.
+### 07. Chrome Extension — AI Translator (Gemini API)
+Расширение Manifest V3 с фоновыми service workers и инжектируемыми content-скриптами. Контекстный перевод текста, обработка изображений через OCR и локализация на 13 языков.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome](https://img.shields.io/badge/Chrome_Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Chrome](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-[Код на GitHub →](https://github.com/XFN52/ai-translator-gemini-api)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/ai-translator-gemini-api)
 
 ---
 
-### 9. PDF → LaTeX с автопочинкой компиляции
-Скрипт превращает PDF-лекции в LaTeX. Самое интересное — он сам чинит ошибки компиляции: читает лог `pdflatex`, получает правки от модели и применяет их к файлу. Три попытки, потом честно говорит, где застрял.
+### 08. PDF → LaTeX Самовосстанавливающийся конвертер
+Автоматизированный пайплайн перевода PDF-документов в валидный компилируемый код LaTeX. Самостоятельно анализирует логи ошибок `pdflatex` и итеративно исправляет разметку.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-[Код на GitHub →](https://github.com/XFN52/otcifrovka_lekchii)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/otcifrovka_lekchii)
 
 ---
 
-### 10. Развёртывание сервисов на VPS
-Ubuntu с нуля: nginx как reverse proxy, ECC-сертификаты Let's Encrypt через acme.sh с автопродлением по cron, systemd-юниты для демонов, bash-скрипты установки одной командой.
+### 09. Миграция портала: WordPress → PHP 8
+Архитектурный рефакторинг высоконагруженного туристического каталога (32 объекта, геоданные, тарифные сетки). Сокращение времени отклика с 6.0 сек до **0.2 сек**.
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 ---
 
-## Стек
+### 10. Серверная инфраструктура VPS (DevOps)
+Развертывание веб-серверов на Ubuntu с нуля. Настройка Nginx reverse proxy, изолирование процессов в systemd, выпуск и автоматическое продление ECC-сертификатов Let's Encrypt через acme.sh.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## Статистика репозиториев
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=XFN52&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFN52&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
 <details>
-<summary>English</summary>
+<summary>English Version</summary>
 
-Developer. Websites, web scraping, Telegram bots, server setup.
+### Full-Stack & Automation Engineer
+Developing high-performance websites, complex SPA web scrapers, automation tools, and server architecture.
 Python · PHP · TypeScript / React · FastAPI · Playwright · Linux.
 
 </details>
