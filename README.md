@@ -110,9 +110,22 @@
 
 ---
 
+### 07. NIVIS — Иммерсивный промо-сайт ледниковой воды (WebGL Water)
+> **Концепт:** Премиальный промо-сайт питьевой воды с интерактивной 3D-сценой (бутылка NIVIS, лед и симуляция воды) на Three.js (React Three Fiber) и пользовательских шейдерах, плавной прокруткой Lenis и кинематографичной сценарной анимацией.
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/immersive-webgl-water-site/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/immersive-webgl-water-site)
+
+---
+
 ## Автоматизация и Backend
 
-### 07. Local Proxy API (FastAPI + Playwright)
+### 08. Local Proxy API (FastAPI + Playwright)
 Асинхронный сервер управления экземплярами Chromium с OpenAI-совместимым REST API эндпоинтом. Автоматическая ротация сессий, обработка ошибок, капч и всплывающих окон.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -123,7 +136,7 @@
 
 ---
 
-### 08. Chrome Extension — AI Translator (Gemini API)
+### 09. Chrome Extension — AI Translator (Gemini API)
 Расширение Manifest V3 с фоновыми service workers и инжектируемыми content-скриптами. Контекстный перевод текста, обработка изображений через OCR и локализация на 13 языков.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -133,7 +146,7 @@
 
 ---
 
-### 09. PDF → LaTeX Самовосстанавливающийся конвертер
+### 10. PDF → LaTeX Самовосстанавливающийся конвертер
 Автоматизированный пайплайн перевода PDF-документов в валидный компилируемый код LaTeX. Самостоятельно анализирует логи ошибок `pdflatex` и итеративно исправляет разметку.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -143,7 +156,7 @@
 
 ---
 
-### 10. Миграция портала: WordPress → PHP 8
+### 11. Миграция портала: WordPress → PHP 8
 Архитектурный рефакторинг высоконагруженного туристического каталога (32 объекта, геоданные, тарифные сетки). Сокращение времени отклика с 6.0 сек до **0.2 сек**.
 
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -152,7 +165,7 @@
 
 ---
 
-### 11. Серверная инфраструктура VPS (DevOps)
+### 12. Серверная инфраструктура VPS (DevOps)
 Развертывание веб-серверов на Ubuntu с нуля. Настройка Nginx reverse proxy, изолирование процессов в systemd, выпуск и автоматическое продление ECC-сертификатов Let's Encrypt через acme.sh.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -282,7 +295,20 @@ Code principles: **speed, predictable performance, and surgical accuracy.**
 
 ---
 
-### 07. Local Proxy API (FastAPI + Playwright)
+### 07. NIVIS — Immersive WebGL Glacial Water Promo
+> **Concept:** Premium promotional website for a glacial water brand featuring an interactive 3D scene (NIVIS bottle, ice blocks, and realistic water simulation) built with Three.js (React Three Fiber) and custom shaders, Lenis smooth scrolling, and cinematic story-driven animations.
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xfn52.github.io/immersive-webgl-water-site/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/immersive-webgl-water-site)
+
+---
+
+### 08. Local Proxy API (FastAPI + Playwright)
 Asynchronous server managing Chromium browser instances with OpenAI-compatible REST API endpoint. Automated session rotation, error handling, captchas, and popups management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -293,7 +319,7 @@ Asynchronous server managing Chromium browser instances with OpenAI-compatible R
 
 ---
 
-### 08. Chrome Extension — AI Translator (Gemini API)
+### 09. Chrome Extension — AI Translator (Gemini API)
 Manifest V3 browser extension featuring background service workers and injected content scripts. Contextual text translation, image OCR processing, and 13 language localizations.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -303,7 +329,7 @@ Manifest V3 browser extension featuring background service workers and injected 
 
 ---
 
-### 09. Self-Healing PDF → LaTeX Converter
+### 10. Self-Healing PDF → LaTeX Converter
 Automated pipeline converting PDF lecture documents into valid compileable LaTeX code. Automatically reads `pdflatex` compilation logs and iteratively fixes syntax formatting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -313,7 +339,7 @@ Automated pipeline converting PDF lecture documents into valid compileable LaTeX
 
 ---
 
-### 10. Tourism Portal Migration: WordPress → PHP 8
+### 11. Tourism Portal Migration: WordPress → PHP 8
 Architectural refactoring of high-traffic travel directory (32 catalog objects, geodata, pricing tables). Reduced page response latency from 6.0s down to **0.2s**.
 
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -322,7 +348,7 @@ Architectural refactoring of high-traffic travel directory (32 catalog objects, 
 
 ---
 
-### 11. VPS Infrastructure Deployment (DevOps)
+### 12. VPS Infrastructure Deployment (DevOps)
 Zero-to-production Linux server configuration on Ubuntu. Nginx reverse proxy setup, systemd daemon isolation, ECC Let's Encrypt SSL automated renewal via acme.sh.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
