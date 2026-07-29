@@ -146,16 +146,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
 
-## Статистика репозиториев
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=XFN52&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFN52&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
-
-</div>
 
 ---
 
