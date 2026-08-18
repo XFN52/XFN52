@@ -199,12 +199,14 @@
 
 ## ⚙️ Backend, Прокси, Автоматизация & Утилиты
 
-### 13. 🛡️ Local Proxy API & Headless Manager (FastAPI + Playwright)
-> **Концепт:** Асинхронный сервер управления пулом экземпляров Chromium с OpenAI-совместимым эндпоинтом. Автоматическая ротация сессий, обработка ошибок, капч и всплывающих окон.
+### 13. 🛡️ Xray & Telemt Proxy Setup (VLESS+Reality & MTProto)
+> **Концепт:** Автоматизированный инсталлятор и диагностический комплекс для развертывания прокси-серверов Xray (VLESS с Reality-маскировкой) и Telemt (MTProto Proxy для Telegram) на Ubuntu с SSH-автоматизацией на Paramiko и глубоким сетевым аудитом (DNS, TCP, TLS, DPI).
 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray_Reality-375BD2?style=flat-square)
+![Telegram](https://img.shields.io/badge/Telemt_MTProto-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/xray-telemt-proxy)
 
@@ -327,7 +329,7 @@ Code principles: **speed, predictable performance, and surgical accuracy.**
 10. **[CHISTO 52 Cleaning Service](https://github.com/XFN52/chisto52-cleaning)** — Residential & Commercial Cleaning Landing with Calculator & Leaflet Map.
 11. **[Stretch Ceilings Calculator](https://github.com/XFN52/stretch-ceilings)** — Commercial Landing with Interactive Texture Selector.
 12. **[ALINA Nail Studio](https://github.com/XFN52/manicure-alina)** — Editorial Nail Salon Minimal Landing in Terracotta Palette.
-13. **[FastAPI & Playwright Proxy Server](https://github.com/XFN52/xray-telemt-proxy)** — Headless Chromium Management Server with OpenAI-Compatible REST API.
+13. **[Xray & Telemt Proxy Setup](https://github.com/XFN52/xray-telemt-proxy)** — Automated Installer & Network Diagnostics for Xray (VLESS+Reality) & Telemt (Telegram MTProto).
 14. **[SubNode-Public](https://github.com/XFN52/SubNode-Public)** — VLESS, Xray & Shadowsocks Subscription Manager & Aggregator.
 15. **[SubNode Core](https://github.com/XFN52/SubNode)** — Private Routing & Proxy Infrastructure Node Manager.
 16. **[PDF → LaTeX Converter](https://github.com/XFN52/otcifrovka_lekchii)** — Self-Healing Automated PDF to LaTeX Converter.
