@@ -283,6 +283,20 @@
 
 ---
 
+### 21. 🚀 Kwork & Profi.ru Monitor — Асинхронный монитор бирж и AI-ассистент
+> **Концепт:** Сервис непрерывного мониторинга заказов в реальном времени с бирж Kwork.ru (SSR HTML) и Profi.ru (GraphQL API) с локальной дедупликацией в SQLite, Telegram-ботом, автоматическим чтением вложенных ТЗ/файлов (.pdf, .docx, .txt) и генерацией персонализированных коммерческих откликов через LLM (OpenAI, DeepSeek, Ollama) в 3 ценовых режимах.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX_Async-009688?style=flat-square)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_DB-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XFN52/kwork-parser)
+
+---
+
 <div align="center">
 
 <details>
@@ -337,6 +351,7 @@ Code principles: **speed, predictable performance, and surgical accuracy.**
 18. **[MTS Fog Play Filter Extension](https://github.com/XFN52/mtcfogplay-filter-extension)** — Cloud Gaming Server Filter Extension.
 19. **[WordPress Code Snippet Splitter](https://github.com/XFN52/wp-code-snippet-splitter)** — Modular PHP functions.php Optimizer.
 20. **[Translitor](https://github.com/XFN52/translitor)** — Russian-English Transliteration & SEO Slug Generator.
+21. **[Kwork & Profi.ru Monitor](https://github.com/XFN52/kwork-parser)** — Async Freelance Order Monitor, SQLite Deduplication, Telegram Alerts & AI Proposal Generator.
 
 </details>
 
